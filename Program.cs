@@ -5,8 +5,6 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("I am working on Inspire Me project.");
-        Console.WriteLine("I am developing new features.");
-        Console.WriteLine("I am working even further");
+
     }
 }
